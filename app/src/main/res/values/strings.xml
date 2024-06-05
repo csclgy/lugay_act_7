@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">HASHIRAS</string>
+    <string name="dog_name_1">Kyojuro Rengoku</string>
+    <string name="dog_name_2">Giyu Tomioka</string>
+    <string name="dog_name_3">Sanemi Shinazugawa</string>
+    <string name="dog_name_4">Muichiro Tokito</string>
+    <string name="dog_name_5">Gyomei Himejima</string>
+    <string name="dog_name_6">Tengen Uzui</string>
+    <string name="dog_name_7">Obanai Iguro</string>
+    <string name="dog_name_8">Mitsuri Kanroji</string>
+    <string name="dog_name_9">Shinobu Kocho</string>
+    <string name="dog_description_1">Set your heart ablaze, go beyond your limits!</string>
+    <string name="dog_description_2">Feel the rage, the powerful, pure rage of not being able to forgive will become your unswerving drive to take action.</string>
+    <string name="dog_description_3">Lets do it GRAAAAAAAAAAAH!</string>
+    <string name="dog_description_4">Even if i lose my memories, my body will remember that anger that will not leave me until i die.</string>
+    <string name="dog_description_5">We are proud to live and die as human beings. Dont act like your worthless ideas are supreme and force them on others.</string>
+    <string name="dog_description_6">Being born with talent must be nice. I thought I was envious before, but Im so jealous right now. All I can think about is tearing you to shreds.</string>
+    <string name="dog_description_7">I want to die defeating Muzan, and I pray that it will purify my filthy blood.</string>
+    <string name="dog_description_8">My heart would never flutter for those who needlessly hurt others!</string>
+    <string name="dog_description_9">yoo-hoo</string>
+    <string name="about">Famous Quote:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about the hashiras.</string>
+</resources>
